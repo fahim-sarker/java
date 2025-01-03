@@ -6,6 +6,12 @@ let data = [];
 let id;
 
 
+const fruits = ["apple", "mango", "banana", "pineapple", "lemon"]
+console.log(fruits.slice(1,4));
+
+
+
+
 add.addEventListener("click",()=>{
     data.push(input.value)
     addtodo()
