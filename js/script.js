@@ -215,3 +215,4 @@ let sculptureList = [{
 
 // Make UI match the initial state.
 updateDOM();
+
